@@ -14,4 +14,5 @@ int main()
 	cout << s2.search('e') << endl;
 	s2.remove(2, 5);
 	cout << s2.size() << endl;
+	cout << s2.search('e') << endl;
 }
